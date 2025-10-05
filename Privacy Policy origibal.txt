@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Privacy Policy - Aditha Scientific Calculator</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 { color: #2c3e50; }
+        h2 { color: #34495e; margin-top: 30px; }
+        ul { padding-left: 20px; }
+        li { margin-bottom: 8px; }
+        .last-updated { color: #666; font-style: italic; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Aditha Scientific Calculator</h1>
+    <p class="last-updated"><strong>Last updated:</strong> December 2024</p>
+    
+    <h2>Introduction</h2>
+    <p>Aditha Scientific Calculator ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we handle information in our calculator application.</p>
+    
+    <h2>Data Collection and Usage</h2>
+    <p><strong>We DO NOT Collect Any Personal Information</strong></p>
+    <p>Aditha Scientific Calculator:</p>
+    <ul>
+        <li>❌ Does NOT collect any personal information</li>
+        <li>❌ Does NOT require user registration</li>
+        <li>❌ Does NOT track your location</li>
+        <li>❌ Does NOT access your contacts, photos, or media</li>
+        <li>❌ Does NOT use analytics or tracking tools</li>
+        <li>❌ Does NOT show advertisements</li>
+        <li>❌ Does NOT share data with third parties</li>
+    </ul>
+    
+    <h2>Local Data Storage</h2>
+    <p>The app may store:</p>
+    <ul>
+        <li>✅ Calculation history locally on your device</li>
+        <li>✅ App preferences and settings</li>
+        <li>✅ Custom functions or constants you create</li>
+    </ul>
+    <p>This data remains exclusively on your device and is never transmitted to our servers or third parties.</p>
+    
+    <h2>Permissions</h2>
+    <p>Aditha Scientific Calculator requires no special permissions to function, as it operates entirely offline without needing access to your device's sensitive features.</p>
+    
+    <h2>Third-Party Services</h2>
+    <p>Our app does not integrate with any third-party services, analytics platforms, or advertising networks.</p>
+    
+    <h2>Children's Privacy</h2>
+    <p>Our app is safe for users of all ages, including children, as we do not collect any personal information from any user.</p>
+    
+    <h2>Data Security</h2>
+    <p>Since we do not collect or transmit any personal data, your privacy is inherently protected while using our application.</p>
+    
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy occasionally. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.</p>
+    
+    <h2>Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, please contact us at:<br>
+    <strong>Email:</strong> pavanielia143@gmail.com</p>
+</body>
+</html>
